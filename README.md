@@ -2,9 +2,9 @@
 
 Project Developed by:
 
-Nirmal A K
+Sathyamoorthi V 
 
-712221205022, park college of engineering and technology
+712221205033, park college of engineering and technology
 
 ### Note Keeping App
 
